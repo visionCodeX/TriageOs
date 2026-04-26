@@ -1,0 +1,6 @@
+{
+  "name": "Remix: TriageOS",
+  "description": "Real-time ICU bed availability and triage dashboard for charge nurses and coordinators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
